@@ -31,5 +31,4 @@ return {
   { import = "astrocommunity.scrolling.nvim-scrollbar"},
   { import = "astrocommunity.scrolling.vim-smoothie"},
   { import = "astrocommunity.terminal-integration.vim-tmux-yank"},
-
 }
